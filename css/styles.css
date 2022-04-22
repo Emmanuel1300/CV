@@ -1,0 +1,27 @@
+/************TAG SELECTORS********/
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #66bfbf;
+}
+h3 {
+  color: #66bf36;
+}
+
+body {
+  background-color: #eaf6f6;
+}
+
+/**************ID SELECTORS**********/
+
+#circular {
+  border-radius: 200px;
+  width: 220px;
+}
